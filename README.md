@@ -4,7 +4,7 @@ _A website where you can search for various recipes, what ingredients you need, 
 
 ## Project URL
 
-[Search over 10,000+ recipes](forkizza.netlify.app)
+[Search over 10,000+ recipes](https://forkizza.netlify.app/)
 
 ## Tech
 
