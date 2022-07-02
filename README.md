@@ -6,6 +6,28 @@ _A website where you can search for various recipes, what ingredients you need, 
 
 [Search over 10,000+ recipes](https://forkizza.netlify.app/)
 
+## Getting Started
+
+`npm install`
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.
+The page will reload when you make changes.
+You may also see any lint errors in the console.
+
+### `npm run build`
+
+Builds the app for production to the build folder.
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.
+Your app is ready to be deployed!
+
 ## Tech
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
